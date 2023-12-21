@@ -12,8 +12,7 @@ The goal of this project is to create a seamless and engaging user registration 
 
 - HTML
 - CSS
-- JavaScript (if required for additional interactivity)
-
+  
 ## Form Fields 📋
 
 1. **Full Name**
